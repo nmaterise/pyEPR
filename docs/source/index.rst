@@ -6,7 +6,6 @@
 *********************************************
 Welcome to pyEPR 🍻!
 *********************************************
-
 Powerful, automated analysis and design of quantum microwave devices
 ***************************************************************************
 **Version**: |version|
@@ -40,20 +39,19 @@ Contents
 .. :caption: Contents:
 
 .. toctree::
-   :maxdepth: 2
    :numbered:
 
    about.rst
    installation.rst
    examples_quick.rst
    key_classes_reference.rst
+   developer_resources.rst
 
 .. toctree::
    :caption: API Reference:
    :glob:
 
    api/*
-
 
 
 Indices and tables

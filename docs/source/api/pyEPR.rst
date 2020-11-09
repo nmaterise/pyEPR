@@ -10,6 +10,7 @@ Subpackages
 -----------
 
 .. toctree::
+   :maxdepth: 4
 
    pyEPR.calcs
    pyEPR.toolbox
@@ -18,6 +19,7 @@ Submodules
 ----------
 
 .. toctree::
+   :maxdepth: 4
 
    pyEPR.ansys
    pyEPR.core

@@ -10,6 +10,7 @@ Submodules
 ----------
 
 .. toctree::
+   :maxdepth: 4
 
    pyEPR.toolbox.plotting
    pyEPR.toolbox.pythonic
